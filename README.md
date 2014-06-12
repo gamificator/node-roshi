@@ -6,7 +6,9 @@ node-roshi
 istalling
 ---------
 
-npm install roshi
+```bash
+  npm install roshi
+```  
 
 api
 ---
