@@ -1,5 +1,14 @@
 {
   "name": "roshi",
   "version": "0.0.1",
-  "dependencies": {}
+  "main": "index.js",
+  "repository": {
+  	"type": "git",
+  	"url":  "https://github.com/gamificator/node-roshi.git"
+  },
+  "autor": {
+  	"name":  "Gamificator",
+  	"email": "socialgamificator@gmail.com"
+  },
+  "license": "MIT"
 }
