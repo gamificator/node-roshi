@@ -1,13 +1,13 @@
 {
   "name": "roshi",
   "description": "roshi client for node",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "repository": {
   	"type": "git",
   	"url":  "https://github.com/gamificator/node-roshi.git"
   },
-  "autor": {
+  "author": {
   	"name":  "Gamificator",
   	"email": "socialgamificator@gmail.com"
   },
